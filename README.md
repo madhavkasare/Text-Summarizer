@@ -16,7 +16,7 @@ How to run?
 STEPS:
 Clone the repository
 
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/madhavkasare/Text-Summarizer
 STEP 01- Create a conda environment after opening the repository
 conda create -n summary python=3.8 -y
 conda activate summary
@@ -27,9 +27,9 @@ python app.py
 Now,
 
 open up you local host and port
-Author: Krish Naik
+Author: Madhav Kasare
 Data Scientist
-Email: krishnaik06@gmail.com
+Email: madhavkasare@gmail.com
 AWS-CICD-Deployment-with-Github-Actions
 1. Login to AWS console.
 2. Create IAM user for deployment
